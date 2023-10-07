@@ -1,0 +1,57 @@
+body {
+    background-color: red;
+    color: white;
+    font-family: 'tahoma';
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 97%;
+}
+
+.Titulo {
+    color: yellow;
+}
+
+#idh2 {
+    color: blue;
+}
+
+.p1Sample {
+    border: pink 1px solid;
+}
+
+.articulo {
+    border: green 1px solid;
+    width: 250px;
+    height: 150px;
+    background-color: black;
+    color: gray;
+    padding: 10px;
+    margin-left: 150px;
+}
+
+.articulo2 {
+    border: green 1px solid;
+    width: 250px;
+    height: 150px;
+    background-color: rgb(19, 148, 94);
+    color: #ffffff;
+    padding: 10px;
+    margin-left: 150px;
+    margin-top: 15px;
+}
+
+.articulo2 img {
+    width: 80px;
+    height: 80px;
+    float: right;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: #000000 3px solid;
+}
